@@ -1,0 +1,1 @@
+Поместите сюда slide-1.jpg, slide-2.jpg, slide-3.jpg. Затем укажите пути assets/slide-1.jpg и т. д. в массиве slideImages файла content.js. Рекомендуется горизонтальный формат 1920×1080. Можно использовать JPG, PNG или WebP.
